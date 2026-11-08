@@ -122,8 +122,6 @@ through review. The repository keeps dozens of these design docs. Automated test
   justifications took real calendar time and shaped some features.
 
 ## Links
-
-- Product: [app.nehva.online](https://app.nehva.online)
 - Full-quality demo video: [assets/demo-inbox.mp4](assets/demo-inbox.mp4)
 
 *The source code is private. Happy to walk through it on a call:
