@@ -3,7 +3,7 @@
 > **TL;DR.** Nehva CRM puts a store's WhatsApp, Instagram and website leads in one shared inbox. I designed, built
 > and run it solo: a multi-tenant TypeScript backend, a background worker that processes Meta webhooks, and a React
 > app. It is a registered Meta Tech Provider, and Meta approved its advanced access to WhatsApp Business messaging
-> and management. Live at [app.nehva.online](https://app.nehva.online).
+> and management.
 
 ![A customer writes on WhatsApp, the message shows up in the inbox in real time, a team member replies and WhatsApp confirms delivery](assets/demo-inbox.gif)
 
